@@ -1,0 +1,21 @@
+li {
+    list-style: none;
+    font-size: 25px;
+    margin-bottom: 10px;
+    
+}
+
+.answerList {
+    width: 200px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.container:hover {
+    cursor: pointer;
+}
+
+.container input {
+    position: absolute;
+    opacity: 0;
+}
